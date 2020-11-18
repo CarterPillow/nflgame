@@ -4,14 +4,13 @@ Project is CURRENTLY [only working with historic data](https://github.com/derek-
 =================================
 I am doing my best to re-write this project by only scraping data.  You can read up on [why this is necessary](https://derekadair.com/python/async/legally-accessing-nfl-data/), but tl;dr; its the only way we can be in line with nfl's terms of use.
 
-A maintained fork of
+A python3 fork of...
 [nflgame](https://github.com/BurntSushi/nflgame/)
 ================
-**Currently releasing under [nflgame-redux](https://pypi.org/project/nflgame-redux/)** drop-in replacement for [nflgame](https://pypi.org/project/nflgame) so as to easily use with projects like [nfldb](https://github.com/derek-adair/nfldb).
+**Currently released under [nflgame-redux](https://pypi.org/project/nflgame-redux/)** drop-in replacement for [nflgame](https://pypi.org/project/nflgame) so as to easily use with projects like [nfldb](https://github.com/derek-adair/nfldb).
 
 ### Purpose
-nflgame is an API to retrieve and read NFL data feeds.
-It can work with real-time data, which can be used for fantasy football.
+nflgame is an API to retrieve and read NFL data feeds, HOWEVER, the nfl has nuked the feeds this project relies on effectively killing it over night.  There has been a concerted effort to include the historic data, but going forward, unless this project gets [a new maintainer](https://github.com/derek-adair/nflgame/issues/142), it will remain in this state.
 
 ### Installation
 **this project is no longer python2 compatible.**.  The old python2 (<1.2.20) branch *should* work but... come on now... just [upgrade](https://docs.python.org/2/library/2to3.html).
