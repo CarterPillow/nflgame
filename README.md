@@ -2,7 +2,7 @@
 
 Project will [only work with historic data](https://github.com/derek-adair/nflgame/issues/130)
 =================================
-I decided to abandon my efforts on this project and have begun looking for a new owner.  You can read up on the details [here](https://derekadair.com/announcement/nflgame-update/), but tl;dr; I'm a bitter coder looking for a non-bitter coder to give this project love.
+I decided to abandon my efforts on this project and have begun looking for a new owner.  You can read up on the details [here](https://derekadair.com/announcement/nfl-shuts-down-public-feeds/), but tl;dr; I'm a bitter coder looking for a non-bitter coder to give this project love.
 
 A python3 fork of...
 [nflgame](https://github.com/BurntSushi/nflgame/)
